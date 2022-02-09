@@ -32,9 +32,15 @@ console.log(`volume = ${volume(10, 20, 30)}`);
 // Write your code below this line
 
 function superBowlScore(touchdown, fieldGoal, twoPoint, extraPoint) {
-    return touchdown + fieldGoal + twoPoint + extraPoint
+    return ((touchdown *6) + (fieldGoal * 3) + ( twoPoint * 2 ) + ( extraPoint *1))
 }
 
-console.log(`SuperBowl score prediction: ${superBowlScore(3, 3, 0, 5)}`);
+console.log(`SuperBowl score prediction: ${superBowlScore(3, 3, 2, 5)}`);
 
 // Write your Bonus code below this line
+
+let bangalscore = superBowlScore(1,5,0,0);
+let ramsScore = superBowlScore(1,5,0,0);
+let finalScore = ('Bangals score: ${bangalscore} and Rams score: ${ramsScore} ' );
+
+console.log(finalScore);
