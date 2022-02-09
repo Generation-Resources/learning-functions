@@ -41,6 +41,6 @@ console.log(`SuperBowl score prediction: ${superBowlScore(3, 3, 2, 5)}`);
 
 let bangalscore = superBowlScore(1,5,0,0);
 let ramsScore = superBowlScore(1,5,0,0);
-let finalScore = ('Bangals score: ${bangalscore} and Rams score: ${ramsScore} ' );
+let finalScore = (`Bangals score: ${bangalscore} and Rams score: ${ramsScore}`);
 
 console.log(finalScore);
