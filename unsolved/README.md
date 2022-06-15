@@ -38,4 +38,6 @@ If you have completed this activity, work through the following challenge with y
 
 * What's the difference between a function declaration, a function expression, and an arrow function?
 
+* Try writing each function in the 3 different formats (function declaration, a function expression, and an arrow function)
+
 ---
