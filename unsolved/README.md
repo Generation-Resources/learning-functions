@@ -22,7 +22,7 @@ Work with your breakout group to implement the following user stories:
 
 ### 🏆 Bonus
 
-* Use the Super Bowl Score function to predict the score for each team, and console log a Final Score prediction.
+* Use the Super Bowl Score function to predict the score for game with your dream team matchup, and console log a Final Score prediction.
 
 ## Screenshot of Console when Solved
 
